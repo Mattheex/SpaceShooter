@@ -1,0 +1,8 @@
+﻿x : 1280 	y  : 658
+life : 33x26
+player : 99x75
+meteor : 57x55
+power up : 34x33
+ennemy : 100x84
+laser : 9x54
+power : 40x40

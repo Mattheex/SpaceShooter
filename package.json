@@ -1,0 +1,14 @@
+{
+  "name": "jeu_zoe",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "no-ip": "latest",
+    "socket.io": "latest",
+    "socket.io-client": "latest"
+  },
+  "license": "BSD-3-Clause"
+}
